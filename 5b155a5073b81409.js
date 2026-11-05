@@ -1,0 +1,1 @@
+"use strict";(self.rspackChunkfluxer_app=self.rspackChunkfluxer_app||[]).push([[7765],{911492:function(p,s,u){u.r(s)}}]);

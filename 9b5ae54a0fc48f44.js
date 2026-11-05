@@ -1,0 +1,2 @@
+"use strict";(self.rspackChunkfluxer_app=self.rspackChunkfluxer_app||[]).push([[2313],{303184:function(i,n,e){e.r(n);var o=e(591603),t=e(82700),r=e(725400);let a={matchEmojiSurrogates:o.A.matchEmojiSurrogates,findEmojiByName:o.A.findEmojiByShortcodeName,findEmojiWithSkinTone:o.A.findEmojiWithSkinTone};e.d(n,{},{initializeEmojiParser:function(){(0,t.a)({emojiProvider:a,skinToneSurrogates:r.n})}})},82700:function(i,n,e){let o=null;e.d(n,{},{a:function(i){o=i},e:function(){return o}})}}]);
+//# sourceMappingURL=9b5ae54a0fc48f44.js.map
